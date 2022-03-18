@@ -1,3 +1,4 @@
+import React from "react";
 import logo from './assets/img/pizza-logo.svg';
 
 function Header() {
@@ -53,4 +54,3 @@ function Header() {
 }
 
 export default Header;
-// export class Header extends React.Component {...};
